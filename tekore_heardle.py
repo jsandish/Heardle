@@ -3,7 +3,7 @@ import random
 import time
 
 client_id = '39a984fe634c49b3b48924061760391e'
-client_secret = '54486e14018c4f63994dadf2e6c5489d'
+client_secret = #Insert clint Secret Here
 redirect_uri = 'https://example.com/callback'
 user_id = 'jsandish23'
 
